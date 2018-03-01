@@ -1,4 +1,4 @@
-# lab1
+# lab2
 
 ## Laboratory work II
 
@@ -82,22 +82,22 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
-- [cd](https://en.wikipedia.org/wiki/Cd_(command))
-- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
-- [echo](https://en.wikipedia.org/wiki/Echo_(command))
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) - архиватор
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) - считывает файлы и записывает их в стандартный вывод
+- [cd](https://en.wikipedia.org/wiki/Cd_(command)) - перейти в директорию, в которой находились до перехода в текущую директорию
+- [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) - скопировать файл
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) - выбрать из каждой строки файла нужную часть
+- [echo](https://en.wikipedia.org/wiki/Echo_(command)) -  вывести строку текста в терминал
 - [env](https://en.wikipedia.org/wiki/Env_(shell))
 - [ex](https://en.wikipedia.org/wiki/Ex_(editor))
 - [file](https://en.wikipedia.org/wiki/File_(command))
-- [find](https://en.wikipedia.org/wiki/Find)
-- [ls](https://en.wikipedia.org/wiki/Ls)
-- [man](https://en.wikipedia.org/wiki/Man_page)
+- [find](https://en.wikipedia.org/wiki/Find) -  найти файлы и директории
+- [ls](https://en.wikipedia.org/wiki/Ls) - отобразить содержимое текущей директории
+- [man](https://en.wikipedia.org/wiki/Man_page) - форматирование и выводcdd справочных страниц
 - [mkdir](https://en.wikipedia.org/wiki/Mkdir)
 - [mv](https://en.wikipedia.org/wiki/Mv)
 - [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - выводит текущие активные процессы
 - [pwd](https://en.wikipedia.org/wiki/Pwd)
 - [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
 - [sed](https://en.wikipedia.org/wiki/Sed)
