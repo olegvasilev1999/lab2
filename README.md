@@ -88,40 +88,36 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) - скопировать файл
 - [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) - выбрать из каждой строки файла нужную часть
 - [echo](https://en.wikipedia.org/wiki/Echo_(command)) -  вывести строку текста в терминал
-- [env](https://en.wikipedia.org/wiki/Env_(shell))
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor))
-- [file](https://en.wikipedia.org/wiki/File_(command))
+- [env](https://en.wikipedia.org/wiki/Env_(shell)) - печать списка переменных среды или запуска другой утилиты в измененной среде без необходимости изменять существующую среду
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor)) - онлайн-редактор
+- [file](https://en.wikipedia.org/wiki/File_(command)) - распознавание типа данных, содержащихся в файле компьютера
 - [find](https://en.wikipedia.org/wiki/Find) -  найти файлы и директории
 - [ls](https://en.wikipedia.org/wiki/Ls) - отобразить содержимое текущей директории
 - [man](https://en.wikipedia.org/wiki/Man_page) - форматирование и выводcdd справочных страниц
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
-- [mv](https://en.wikipedia.org/wiki/Mv)
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir) - создать новый каталог
+- [mv](https://en.wikipedia.org/wiki/Mv) - перемещение одного или нескольких файлов или каталогов из одного места в другое
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) - используется для проверки файлов и для отображения содержимого этих файлов или метаинформации, хранящейся в них
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - выводит текущие активные процессы
-- [pwd](https://en.wikipedia.org/wiki/Pwd)
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
-- [sed](https://en.wikipedia.org/wiki/Sed)
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [pwd](https://en.wikipedia.org/wiki/Pwd) - печать списка переменных среды или запуска другой утилиты в измененной среде без необходимости изменять существующую среду
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) - удаление объектов
+- [sed](https://en.wikipedia.org/wiki/Sed) - преобразовывает текст
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) - обновить дату доступа и дату изменения файла или каталога
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
-- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
-- [npm](https://docs.npmjs.com)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - позволяют управлять программными пакетами
+- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh) - устанавливают нужные пользователю пакеты (brew-mcOS;linuxsrew-Linux)
+- [npm](https://docs.npmjs.com) - пакетный менеджер для javascript
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
-
-```
-Copyright (c) 2017 Братья Вершинины
-```
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - позволяет взаимодействовать с множеством различных серверов по множеству различных протоколов с синтаксисом URL.
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) - консольная программа для загрузки файлов по сети.
+- [clang](https://clang.llvm.org) - фронтенд для языков программирования C, C++ 
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) - компилятор
+- [make](https://en.wikipedia.org/wiki/Make_(software)) - создает исполняемые программы и библиотеки из исходного кода
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - открывает файл
+- [openssl](https://www.openssl.org) - криптографический пакет 
+- [nano](https://www.nano-editor.org) - консольный текстовый редактор 
+- [tree](https://linux.die.net/man/1/tree) - рекурсивный каталог 
+- [vim](http://www.vim.org) - текстовый редактор
